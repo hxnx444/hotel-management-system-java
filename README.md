@@ -4,14 +4,14 @@
 
 > a console-based Java project demonstrating object-oriented programming principles for managing hotel operations.
 
-**Project Repo:** [GitHub Link]  
+
 
 ---
 
 ## 💡 overview
 
 This hotel management system is a Java-based, object-oriented project that simulates **real-world hotel operations**.  
-it allows users to manage rooms, bookings, customers, and staff using clean, modular code with **classes, inheritance, and encapsulation**.  
+It allows users to manage rooms, bookings, customers, and staff using clean, modular code with **classes, inheritance, and encapsulation**.  
 
 built with **java**, this project demonstrates **oop concepts, console-based interactions, and logical program design**.
 
